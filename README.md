@@ -6,4 +6,6 @@
 
  🚀 Here I share my personal projects, experiments, and learning journey.
 
+ ![Yelle-stack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelle-stack&show_icons=true&count_private=true)
+
  Welcome to my GitHub !
