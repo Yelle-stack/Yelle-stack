@@ -6,6 +6,6 @@
 
  🚀 Here I share my personal projects, experiments, and learning journey.
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelle-stack)](https://github.com/anuraghazra/github-readme-stats)
+ [![Jelena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelle-stack)](https://github.com/Yelle-stack/github-readme-stats)
  
  Welcome to my GitHub !
