@@ -2,7 +2,7 @@
  
  🇫🇷 I'm a frontend developer based in France. </br>
  ⚛️ I specialize in building modern, responsive web interfaces using React, JavaScript, TypeScript, HTML5, CSS3, Tailwind. </br>
- 💻 I'm passionate about UI/UX, clean code, and continuously learning new. </br>
+ 💻 I'm passionate about UI/UX, clean code, and continuously learning new technologies. </br>
 
  🚀 Here I share my personal projects, experiments, and learning journey.
 
