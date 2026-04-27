@@ -24,9 +24,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yelle-stack&theme=dark&hide_border=false&include_all_commits=true&hide=stars,prs,issues,contribs)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yelle-stack&theme=dark&hide_border=false)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yelle-stack&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&rank_icon=percentile)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelle-stack&theme=dark&hide_border=false&layout=compact)
 
 ---
