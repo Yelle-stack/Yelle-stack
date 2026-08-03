@@ -1,20 +1,16 @@
+## Hi, I'm Jelena 👋
 
+🇫🇷 I'm a Front-End Developer based in France, specializing in React. </br>
+⚛️ I build modern, responsive web interfaces with React, JavaScript, TypeScript, and Tailwind CSS. </br>
+💻 I'm passionate about UI/UX, clean code, and continuously improving my skills. </br>
 
- ## Hi, I'm Jelena 👋
- 
- 🇫🇷 I'm a Frontend React Developer based in France. </br>
- ⚛️ I specialize in building modern, responsive web interfaces using React, JavaScript, TypeScript, HTML5, CSS3, Tailwind. </br>
- 💻 I'm passionate about UI/UX, clean code, and continuously learning new technologies. </br>
+🚀 This GitHub showcases my projects, experiments, and continuous learning journey.
 
- 🚀 This GitHub showcases my projects, experiments, and continuous learning journey.
- Welcome to my GitHub !
-
+Welcome to my GitHub!
  
 # 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -25,6 +21,20 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+# 🚀 Featured Projects:
+
+### 🛒 QuickCart
+E-commerce application built with React.
+
+### 🏨 Hotel Booking
+Responsive hotel booking interface.
+
+### 🍽️ Umami Restaurant
+Full-stack restaurant application built with React, Node.js, Express and MongoDB.
+
+### 🎮 Duck Hunt
+Interactive browser game built with JavaScript, HTML and CSS.
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yelle-stack&theme=dark&hide_border=false)
