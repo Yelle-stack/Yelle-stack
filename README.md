@@ -1,34 +1,4 @@
-class Jelena {
-    constructor() {
-        this.role = "Front-End Developer";
-        this.favorite_language = "JavaScript";
 
-        this.stack = [
-            "React",
-            "JavaScript",
-            "TypeScript",
-            "Next.js",
-            "Tailwind CSS"
-        ];
-
-        this.tools = [
-            "Git",
-            "GitHub",
-            "Figma",
-            "Vite"
-        ];
-
-        this.currently_learning = [
-            "Advanced React",
-            "Next.js",
-            "Full-Stack Development"
-        ];
-
-        this.coffee = "☕";
-    }
-}
-
-const jelena = new Jelena();
 
  ## Hi, I'm Jelena 👋
  
