@@ -38,14 +38,6 @@ Interactive browser game built with JavaScript, HTML and CSS.
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true" alt="GitHub Stats">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-beryl-32.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=github_dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-beryl-32.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=default"> <img src="https://github-readme-stats-ten-beryl-32.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"> </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yelle-stack&layout=compact&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yelle-stack&layout=compact&hide_border=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yelle-stack&layout=compact&hide_border=true" alt="Top Languages">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-beryl-32.vercel.app/api/top-langs/?username=Yelle-stack&layout=compact&hide_border=true&theme=github_dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-beryl-32.vercel.app/api/top-langs/?username=Yelle-stack&layout=compact&hide_border=true&theme=default"> <img src="https://github-readme-stats-ten-beryl-32.vercel.app/api/top-langs/?username=Yelle-stack&layout=compact&hide_border=true&theme=default" alt="Top Languages"> </picture>
