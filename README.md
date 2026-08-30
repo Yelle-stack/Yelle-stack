@@ -30,6 +30,8 @@ E-commerce application built with React.
 ### 🏨 Hotel Booking
 Responsive hotel booking interface.
 
+[🌐 Live Demo](https://hotel-booking-jet-seven.vercel.app/)
+
 ### 🍽️ Umami Restaurant
 Full-stack restaurant application built with React, Node.js, Express and MongoDB.
 
