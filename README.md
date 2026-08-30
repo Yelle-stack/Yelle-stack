@@ -42,6 +42,8 @@ Full-stack restaurant application built with React, Node.js, Express and MongoDB
 ### 🎮 Duck Hunt
 Interactive browser game built with JavaScript, HTML and CSS.
 
+[🌐 Live Demo](https://duck-hunt-game-indol.vercel.app/)
+
 ## 📊 GitHub Stats
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-beryl-32.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=github_dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-beryl-32.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=default"> <img src="https://github-readme-stats-ten-beryl-32.vercel.app/api?username=Yelle-stack&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"> </picture>
