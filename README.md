@@ -27,7 +27,7 @@ Welcome to my GitHub!
 ### 🎓 Lms
 Learning Management System (LMS) built with React, Vite, and Tailwind CSS.
 
-
+[🌐 Live Demo](https://lms-sooty-two-58.vercel.app/)
 
 ### 🏨 Hotel Booking
 Responsive hotel booking interface.
