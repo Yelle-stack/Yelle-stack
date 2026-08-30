@@ -24,8 +24,10 @@ Welcome to my GitHub!
 
 # 🚀 Featured Projects:
 
-### 🛒 QuickCart
-E-commerce application built with React.
+### 🎓 Lms
+Learning Management System (LMS) built with React, Vite, and Tailwind CSS.
+
+
 
 ### 🏨 Hotel Booking
 Responsive hotel booking interface.
