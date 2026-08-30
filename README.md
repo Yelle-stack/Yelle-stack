@@ -32,8 +32,8 @@ Responsive hotel booking interface.
 
 ### 🍽️ Umami Restaurant
 Full-stack restaurant application built with React, Node.js, Express and MongoDB.
-[
-](https://frontend-six-jade-8t3g35n642.vercel.app/)
+
+[🌐 Live Demo](https://frontend-six-jade-8t3g35n642.vercel.app/)
 
 ### 🎮 Duck Hunt
 Interactive browser game built with JavaScript, HTML and CSS.
