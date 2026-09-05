@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljOThhM2FmZTJjMjFiMTQ5MTgxMzMzMGNkZmY3ZGUyNTQ5NWQ1NCZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif" width="120"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjltanFlMGk2MGJidmRvNTVsZm5ibG5yMXNvZXVhcnF6ajV1eWVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C5euAYImtRqZe1z5Jo/giphy.gif" width="120"/>
 
 </p>
 ## Hi, I'm Jelena 👋
