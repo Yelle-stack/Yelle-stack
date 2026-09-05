@@ -1,3 +1,15 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Jelena+Zekovic;Front-End+Developer" />
+
+</p>
+
+<p align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljOThhM2FmZTJjMjFiMTQ5MTgxMzMzMGNkZmY3ZGUyNTQ5NWQ1NCZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif" width="120"/>
+
+</p>
+
 ## Hi, I'm Jelena 👋
 
 🇫🇷 I'm a Front-End Developer based in France, specializing in React. </br>
