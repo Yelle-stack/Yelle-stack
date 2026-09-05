@@ -6,8 +6,7 @@
 
 <p align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljOThhM2FmZTJjMjFiMTQ5MTgxMzMzMGNkZmY3ZGUyNTQ5NWQ1NCZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif" width="120"/>
-
+<iframe src="https://giphy.com/embed/C5euAYImtRqZe1z5Jo" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C5euAYImtRqZe1z5Jo">via GIPHY</a></p>
 </p>
 
 ## Hi, I'm Jelena 👋
