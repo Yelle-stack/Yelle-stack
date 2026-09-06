@@ -9,7 +9,8 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjltanFlMGk2MGJidmRvNTVsZm5ibG5yMXNvZXVhcnF6ajV1eWVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C5euAYImtRqZe1z5Jo/giphy.gif" width="120"/>
 
 </p>
-## Hi, I'm Jelena 👋
+
+ Hi, I'm Jelena 👋
 
 🇫🇷 I'm a Front-End Developer based in France, specializing in React. </br>
 ⚛️ I build modern, responsive web interfaces with React, JavaScript, TypeScript, and Tailwind CSS. </br>
