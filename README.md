@@ -10,7 +10,7 @@
 
 </p>
 
- Hi, I'm Jelena 👋
+ # Hi, I'm Jelena 👋
 
 🇫🇷 I'm a Front-End Developer based in France, specializing in React. </br>
 ⚛️ I build modern, responsive web interfaces with React, JavaScript, TypeScript, and Tailwind CSS. </br>
