@@ -12,11 +12,12 @@
 
  # Hi, I'm Jelena 👋
 
-🇫🇷 I'm a Front-End Developer based in France, specializing in React. </br>
-⚛️ I build modern, responsive web interfaces with React, JavaScript, TypeScript, and Tailwind CSS. </br>
-💻 I'm passionate about UI/UX, clean code, and continuously improving my skills. </br>
+🇫🇷 Full-Stack Developer based in France, specializing in React and modern web technologies. </br>
+⚛️ I build modern, responsive web applications with React, JavaScript, TypeScript, and Tailwind CSS.</br>
+🖥️ I'm expanding my skills in Node.js, Express, APIs, databases, and backend development. </br>
+💻 Passionate about UI/UX, clean code, and building complete web experiences from frontend to backend.</br>
 
-🚀 This GitHub showcases my projects, experiments, and continuous learning journey.
+🚀 Continuously learning, improving, and exploring new technologies.
 
 Welcome to my GitHub!
  
