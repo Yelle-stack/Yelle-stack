@@ -12,10 +12,13 @@
 
  # Hi, I'm Jelena 👋
 
-🇫🇷 Full-Stack Developer based in France, specializing in React and modern web technologies. </br>
-⚛️ I build modern, responsive web applications with React, JavaScript, TypeScript, and Tailwind CSS.</br>
-🖥️ I'm expanding my skills in Node.js, Express, APIs, databases, and backend development. </br>
-💻 Passionate about UI/UX, clean code, and building complete web experiences from frontend to backend.</br>
+🇫🇷 **Full-Stack Developer based in France, specializing in the MERN Stack (MongoDB, Express.js, React, Node.js).**
+
+⚛️ **Front-end:** I build dynamic, responsive UIs with React, JavaScript, TypeScript, and Tailwind CSS, including real-time updates and drag-and-drop interfaces.
+
+⚙️ **Back-end & Database:** I develop secure REST APIs with Node.js and Express.js, implementing JWT authentication and bcrypt for password hashing, backed by flexible MongoDB data modeling.
+
+💻 **Passionate about UI/UX, clean code, and building complete, scalable web experiences—from database to user interface.**
 
 🚀 Continuously learning, improving, and exploring new technologies.
 
