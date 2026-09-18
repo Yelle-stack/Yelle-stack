@@ -12,7 +12,7 @@
 
  # Hi, I'm Jelena 👋
 
-🇫🇷 **Full-Stack Developer based in France, specializing in the MERN Stack (MongoDB, Express.js, React, Node.js).**
+👩🏻‍💻🇫🇷 **Full-Stack Developer based in France, specializing in the MERN Stack (MongoDB, Express.js, React, Node.js).**
 
 ⚛️ **Front-end:** I build dynamic, responsive UIs with React, JavaScript, TypeScript, and Tailwind CSS, including real-time updates and drag-and-drop interfaces.
 
