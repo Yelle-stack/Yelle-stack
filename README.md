@@ -79,6 +79,8 @@ Full-stack restaurant booking application with a React frontend and Express back
 🔗 [View On GitHub](https://github.com/Yelle-stack/TableUp)
 ---
 
+---
+
 ### 🎓 Learning Management System
 
 Learning Management System built with React, Vite and Tailwind CSS.
@@ -86,8 +88,6 @@ Learning Management System built with React, Vite and Tailwind CSS.
 **React • Vite • Tailwind CSS • Clerk**
 
 🌐 [Live Demo](https://lms-sooty-two-58.vercel.app/)
-
----
 
 ## 📊 GitHub Stats
 
