@@ -67,7 +67,7 @@ Modern restaurant website focused on elegant UI, responsive design and smooth in
 
 **React • Vite • Tailwind CSS**
 
-🌐 [Live Demo] (https://restro-sandy-three.vercel.app/)
+🌐 [Live Demo](https://restro-sandy-three.vercel.app/)
 ---
 
 ### 🍴 TableUp
@@ -76,7 +76,7 @@ Full-stack restaurant booking application with a React frontend and Express back
 
 **React • Node.js • Express • MongoDB**
 
-🔗 [View On GitHub] (https://github.com/Yelle-stack/TableUp)
+🔗 [View On GitHub](https://github.com/Yelle-stack/TableUp)
 ---
 
 ### 🎓 Learning Management System
