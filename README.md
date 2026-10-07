@@ -59,6 +59,7 @@ AI chat application inspired by modern conversational AI interfaces.
 **Next.js • React • Tailwind CSS • Clerk • DeepSeek API**
 
 🔗 [View on GitHub](https://github.com/Yelle-stack/deepseek)
+
 ---
 
 ### 🍽️ Restro
@@ -68,6 +69,7 @@ Modern restaurant website focused on elegant UI, responsive design and smooth in
 **React • Vite • Tailwind CSS**
 
 🌐 [Live Demo](https://restro-sandy-three.vercel.app/)
+
 ---
 
 ### 🍴 TableUp
@@ -76,8 +78,7 @@ Full-stack restaurant booking application with a React frontend and Express back
 
 **React • Node.js • Express • MongoDB**
 
-🔗 [View On GitHub](https://github.com/Yelle-stack/TableUp)
----
+🔗 [View on GitHub](https://github.com/Yelle-stack/TableUp)
 
 ---
 
@@ -87,10 +88,7 @@ Learning Management System built with React, Vite and Tailwind CSS.
 
 **React • Vite • Tailwind CSS • Clerk**
 
-🌐 **[Live Demo](https://lms-sooty-two-58.vercel.app/)**
-
----
-
+🌐 [Live Demo](https://lms-sooty-two-58.vercel.app/)
 ## 📊 GitHub Stats
 
 <p align="center">
