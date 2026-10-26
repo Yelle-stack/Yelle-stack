@@ -89,6 +89,17 @@ Learning Management System built with React, Vite and Tailwind CSS.
 **React • Vite • Tailwind CSS • Clerk**
 
 🌐 [Live Demo](https://lms-sooty-two-58.vercel.app/)
+
+## 📅 Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/C792EA/Yelle-stack"
+    alt="Graphique des contributions GitHub de Yelle-stack"
+    width="100%"
+  />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
