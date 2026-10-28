@@ -58,7 +58,7 @@ AI chat application inspired by modern conversational AI interfaces.
 
 **Next.js • React • Tailwind CSS • Clerk • DeepSeek API**
 
-🔗 [View on GitHub](https://github.com/Yelle-stack/deepseek)
+🌐 [Live Demo](https://deepseek-blush-iota.vercel.app/)
 
 ---
 
