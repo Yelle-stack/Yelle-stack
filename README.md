@@ -92,14 +92,15 @@ Learning Management System built with React, Vite and Tailwind CSS.
 
 ## 📅 Contributions
 
+## 📅 Contributions
+
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/C792EA/Yelle-stack"
+    src="https://ghchart.rshah.org/1e3a8a/Yelle-stack"
     alt="Graphique des contributions GitHub de Yelle-stack"
     width="100%"
   />
 </p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
