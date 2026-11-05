@@ -95,10 +95,11 @@ Learning Management System built with React, Vite and Tailwind CSS.
 <p align="center">
   <img
     src="https://ghchart.rshah.org/1e3a8a/Yelle-stack"
-    alt="Graphique des contributions GitHub de Yelle-stack"
+    alt="GitHub contributions chart"
     width="100%"
   />
 </p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -135,11 +136,10 @@ Learning Management System built with React, Vite and Tailwind CSS.
 
 <p align="center">
   <img
-    src="https://streak-stats.vercel.app/?user=Yelle-stack&hide_border=true"
+    src="https://streak-stats.vercel.app/?user=Yelle-stack&hide_border=true&theme=github-dark-blue"
     alt="GitHub Streak"
   />
 </p>
-
 ---
 
 ## 📫 Let's Connect
