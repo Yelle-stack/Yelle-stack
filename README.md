@@ -45,10 +45,9 @@ I'm particularly interested in **clean code, UI/UX, modern web technologies and 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,npm,vscode,vercel,apple" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
