@@ -133,18 +133,12 @@ Learning Management System built with React, Vite and Tailwind CSS.
   </picture>
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.vercel.app/?user=Yelle-stack&hide_border=true&theme=github-dark-blue"
-    alt="GitHub Streak"
-  />
-</p>
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Yelle-stack">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
