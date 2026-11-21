@@ -63,7 +63,7 @@ AI chat application inspired by modern conversational AI interfaces.
 
 ### 🏦 BankApp
 
-Short description of your bank application (what it does, main features).
+Modern, responsive fintech landing page built with React, Vite and Tailwind CSS.
 
 **React • Tailwind CSS • ...**
 
