@@ -65,7 +65,7 @@ AI chat application inspired by modern conversational AI interfaces.
 
 Modern, responsive fintech landing page built with React, Vite and Tailwind CSS.
 
-**React • Tailwind CSS • ...**
+**React • Tailwind CSS • Vite**
 
 🌐 [Live Demo](https://yelle-stack.github.io/bankApp/)
 
