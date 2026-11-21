@@ -61,13 +61,13 @@ AI chat application inspired by modern conversational AI interfaces.
 
 ---
 
-### 🍽️ Restro
+### 🏦 BankApp
 
-Modern restaurant website focused on elegant UI, responsive design and smooth interactions.
+Short description of your bank application (what it does, main features).
 
-**React • Vite • Tailwind CSS**
+**React • Tailwind CSS • ...**
 
-🌐 [Live Demo](https://restro-sandy-three.vercel.app/)
+🌐 [Live Demo](https://yelle-stack.github.io/bankApp/)
 
 ---
 
